@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+     <head>
+<title>
+first program
+</title>
+<link rel="stylesheet" type="text/css" href="../path">
+<meta name="name" content="this a first html program">
+<style type="text/css"> </style>
+       </head>
+<body bgcolor="orange" text="blue">
+<h1 title="Read now">information</h1
+> <a href="https://www.whatsapp.com/">whatsapp</a>
+<a href="https://www.GOOGLE.com/"><br>GOOGLE</a>
+<a href="http://sliet.ac.in/"><br>SLIET</a> <br>
+<br><img src="image/ssdc.jpg">
+<h2>hello world!</h2>
+<h3>hello world!</h3>
+<h4>hello world!</h4>
+ <h5>hello world!</h5>
+<h6>hello world!</h6>
+<b style="background-color: black;"> CLICK HERE</b>
+<a href="#">SLIET</a>
+<label> is SLIET's url</label>
+<div style="background-color: salmon">
+INDIA
+</div>
+<div style="background-color: white;"> BHARAT</div>
+<div style="background-color:green;"> HINDUSTAN</div> <p style="color:aqua"> i am fine hasgus hgquy qgquw</p>
+</body>
+<cite> <br><strong> hello dear</strong>
+<hr><br>hello dear</cite>
+</html>
